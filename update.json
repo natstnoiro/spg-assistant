@@ -1,83 +1,83 @@
 {
  "version": "v25",
- "notes": "首个带自动更新的版本（分段）",
+ "notes": "首个带自动更新的版本（jsDelivr 加速）",
  "size": 95447052,
- "sha256": "1ad8b5d738d302911524a3125475079e235eeee8f8a377534d320f861fc6002a",
+ "sha256": "1ad8b5d738d302911524a3125475079e234eeee8f8a377534d320f861fc6002a",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part00.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part00.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part01.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part01.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part02.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part02.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part03.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part03.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part04.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part04.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part05.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part05.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part06.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part06.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part07.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part07.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part08.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part08.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part09.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part09.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part10.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part10.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part11.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part11.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part12.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part12.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part13.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part13.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part14.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part14.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part15.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part15.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part16.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part16.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part17.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part17.bin",
    "size": 5242880
   },
   {
-   "url": "https://raw.githubusercontent.com/natstnoiro/spg-assistant/main/pkg/part18.bin",
+   "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part18.bin",
    "size": 1075212
   }
  ]
