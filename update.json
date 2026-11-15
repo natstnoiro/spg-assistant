@@ -82,10 +82,10 @@
   }
  ],
  "patch": {
-  "version": "v25.3",
-  "notes": "标记改版：叠层核心♡/推荐⭐/备选文字；层数乱读保护；阶段滞回不再反复跳；同回合站位锁定不再重排；伤害盟约(精准/奥术/灵巧)加权",
-  "size": 409249,
-  "sha256": "c61fd972e1a433cd610365108b816b3fc9aa0d7d64988dcba405236e73752dd3",
-  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.3"
+  "version": "v25.4",
+  "notes": "新增5套视频打法(拜松炎/冰块电狗/二本机械师/叠层佩佩/叙拉古突袭)；识别到【模拟完成】即归档本局并出MVP报告",
+  "size": 410845,
+  "sha256": "caae59dfd4d5ef08e83def29d48d73f0bb2cc1a78d2221dadec655781ae5a20c",
+  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.4"
  }
 }
