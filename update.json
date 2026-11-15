@@ -2,7 +2,7 @@
  "version": "v25",
  "notes": "首个带自动更新的版本（jsDelivr 加速）",
  "size": 95447052,
- "sha256": "1ad8b5d738d302911524a3125475079e234eeee8f8a377534d320f861fc6002a",
+ "sha256": "1ad8b5d738d302911524a3125475079e235eeee8f8a377534d320f861fc6002a",
  "parts": [
   {
    "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part00.bin",
