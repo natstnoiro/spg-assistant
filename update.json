@@ -82,10 +82,10 @@
   }
  ],
  "patch": {
-  "version": "v25.1",
-  "notes": "首个补丁：验证自动更新链路（内容与 v25 一致）",
-  "size": 403966,
-  "sha256": "d80d4d60ece173c223079143c0ad7d5865d85aceda777392b6e6518110a550ab",
-  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.1"
+  "version": "v25.2",
+  "notes": "修复：协防视角不再污染层数；商店基线不再建空；资金2/25去抖；待机识别覆盖大厅/难度/同盟房间/已就绪；站位按路线分道；MVP报告自动生成；资金纠错提前",
+  "size": 408022,
+  "sha256": "68cd00149031b8d1c27197e9ef80fa03d98b6911640075e19089981a777d2a29",
+  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.2"
  }
 }
