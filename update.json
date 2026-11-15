@@ -80,5 +80,12 @@
    "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/pkg/part18.bin",
    "size": 1075212
   }
- ]
+ ],
+ "patch": {
+  "version": "v25.1",
+  "notes": "首个补丁：验证自动更新链路（内容与 v25 一致）",
+  "size": 403966,
+  "sha256": "d80d4d60ece173c223079143c0ad7d5865d85aceda777392b6e6518110a550ab",
+  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.1"
+ }
 }
