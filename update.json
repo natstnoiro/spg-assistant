@@ -1,1 +1,7 @@
-{"version": "v25", "notes": "test", "size": 0, "sha256": "", "parts": []}
+{
+ "version": "v25",
+ "notes": "首个带自动更新的版本",
+ "size": 95447052,
+ "sha256": "1ad8b5d738d302911524a3125475079e235eeee8f8a377534d320f861fc6002a",
+ "url": "https://github.com/natstnoiro/spg-assistant/releases/download/v25/spg-assistant-v25.zip"
+}
