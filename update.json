@@ -82,10 +82,10 @@
   }
  ],
  "patch": {
-  "version": "v25.6",
-  "notes": "修复：作战分支继续刷休整期(日志刷屏)；买牌误记导致假精二；层数上限按回合；被ban打法不再推荐；补齐RESULT_BOX等常量",
-  "size": 477609,
-  "sha256": "a342107a256425ef06db3efa1fdfce371af394602676747a0f4a241111c0db9e",
-  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.6"
+  "version": "v25.7",
+  "notes": "稳妥优化：统一路径解析(spg_paths)、死代码归档、重复常数合并(UI_WORDS/TIER_ROMAN/CORE/dpi_aware)、board/plan 加 mtime 缓存",
+  "size": 476462,
+  "sha256": "d21b715261bf84ff6f89c0009d49147c6fd44c8b083c2b7c1c7763d1be773448",
+  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.7"
  }
 }
