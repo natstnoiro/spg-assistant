@@ -82,10 +82,10 @@
   }
  ],
  "patch": {
-  "version": "v25.7",
-  "notes": "稳妥优化：统一路径解析(spg_paths)、死代码归档、重复常数合并(UI_WORDS/TIER_ROMAN/CORE/dpi_aware)、board/plan 加 mtime 缓存",
-  "size": 476462,
-  "sha256": "d21b715261bf84ff6f89c0009d49147c6fd44c8b083c2b7c1c7763d1be773448",
-  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.7"
+  "version": "v25.8",
+  "notes": "数据拉取(11-17)：新增干员Pith(优等生)，20名干员描述/盟约刷新；敌人/首领/悬赏/盟约效果整包同步",
+  "size": 475885,
+  "sha256": "498d4615a50627c142ca53ad0648ba314cc2c6514a8127760663c541040d804f",
+  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.8"
  }
 }
