@@ -82,10 +82,10 @@
   }
  ],
  "patch": {
-  "version": "v25.8",
-  "notes": "数据拉取(11-17)：新增干员Pith(优等生)，20名干员描述/盟约刷新；敌人/首领/悬赏/盟约效果整包同步",
-  "size": 475885,
-  "sha256": "498d4615a50627c142ca53ad0648ba314cc2c6514a8127760663c541040d804f",
-  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.8"
+  "version": "v25.9",
+  "notes": "新增：S.W.E.E.P.指令表(62条，含东之极道/利滚利/人才锁定等)；新增打法「伊比利亚·三本罗素（兜底流）」",
+  "size": 481760,
+  "sha256": "d143593eb49e5ac752b4e85046ab4fab49bdf6e5c38188f456b0a7e56c9d2145",
+  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.9"
  }
 }
