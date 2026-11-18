@@ -82,10 +82,10 @@
   }
  ],
  "patch": {
-  "version": "v25.11",
-  "notes": "目标层数接进 HUD：面板「打法锁定」卡里选目标盟约+层数 -> live_goal.json -> HUD 多一行 当前/预计/差/缺什么；另修 spg_overlay 找不到游戏窗口时的 BAD_TITLE NameError",
-  "size": 491591,
-  "sha256": "d7831267c312e145975fdc8e70f673f1087ec5612c8bd6a9d7d5d7754c98be8f",
-  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.11"
+  "version": "v25.12",
+  "notes": "盟约全览 ban 识别重写：卡西米尔不再被误判为 ban、伊比利亚不再漏读；每排按格位拟合补全漏读，绿度改量图标圆心（亮65+ / 灰5，阈值35）；HUD 同时显示附加盟约 ban；新增 panel_ban 回归样本与自检",
+  "size": 435085,
+  "sha256": "51e6d354945235f76ba4e81ef744f95fbf57622294523cefdad3a3d43d818de8",
+  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.12"
  }
 }
