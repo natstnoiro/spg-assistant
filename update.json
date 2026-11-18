@@ -82,10 +82,10 @@
   }
  ],
  "patch": {
-  "version": "v25.10",
-  "notes": "新增：保活模式（连续3回合无本家牌→自动转坚守/聚合保活，R8起提示转回主盟约）；目标层数模型 spg_goal + 引擎表 + 指令层数标注",
-  "size": 488061,
-  "sha256": "38fd55e1995f7ceb7320c0204b3f93bbaf61d9b4151990b31f28ce43651a59a0",
-  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.10"
+  "version": "v25.11",
+  "notes": "目标层数接进 HUD：面板「打法锁定」卡里选目标盟约+层数 -> live_goal.json -> HUD 多一行 当前/预计/差/缺什么；另修 spg_overlay 找不到游戏窗口时的 BAD_TITLE NameError",
+  "size": 491591,
+  "sha256": "d7831267c312e145975fdc8e70f673f1087ec5612c8bd6a9d7d5d7754c98be8f",
+  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.11"
  }
 }
