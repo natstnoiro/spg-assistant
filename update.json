@@ -82,10 +82,11 @@
   }
  ],
  "patch": {
-  "version": "v25.13",
-  "notes": "更新器多源重试：清单按 raw -> GitHub API contents -> jsDelivr 依次尝试，raw 被墙/超时不再静默失败；补丁包下载支持 Contents API 兜底；每次尝试写 exe 同级 _update_log.txt 方便查原因。以后发版会自动更新，不用再手动拉",
-  "size": 436323,
-  "sha256": "83b23c7038a44cdec7df32848eb3547dae05cedc1962e1ae700f4891ba851ab8",
-  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@main/patch/latest.zip?v=v25.13"
+  "version": "v25.14",
+  "notes": "更新器 v2：清单 raw -> GitHub API -> jsDelivr 三级重试；补丁包 sha256 不对自动换源（防 CDN 旧缓存）；每次尝试写 _update_log.txt。补丁 URL 改钉 commit，不再受 jsDelivr @main 缓存影响",
+  "size": 436427,
+  "sha256": "5a8bd0229a114d9a616f675d4d0421220c6807fc9c44b770abcac1c7f27800e6",
+  "url": "https://fastly.jsdelivr.net/gh/natstnoiro/spg-assistant@2b71e1c6ccebcad0da2fbaac7fe01c8793bfc57e/patch/latest.zip?v=v25.14",
+  "commit": "2b71e1c6ccebcad0da2fbaac7fe01c8793bfc57e"
  }
 }
